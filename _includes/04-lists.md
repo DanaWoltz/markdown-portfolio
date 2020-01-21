@@ -1,3 +1,3 @@
-*cats
-*are
-*great
+* cats
+* are
+* great
